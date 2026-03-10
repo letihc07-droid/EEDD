@@ -1,2 +1,6 @@
 Esto es otra prueba de fichero
+<<<<<<< HEAD
 Añado linea desde Rama-local
+=======
+Fichero Cambiado
+>>>>>>> 8d35d169d1acdc6eb9416d452fc9e1f828168a14
